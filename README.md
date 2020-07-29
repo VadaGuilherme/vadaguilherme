@@ -6,3 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gvadaguariba@gmail.com)](mailto:gvadaguariba@gmail.com)
 
 ## Olá 👋
+
+<!-- <img src="https://https://github.com/VadaGuilherme/VadaGuilherme/blob/master/img/octocat.png" width="100%"
+  alt="Guilherme Vada" /> -->
